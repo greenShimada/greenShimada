@@ -1,4 +1,4 @@
-### Hi, I'm Matheus Oliveira! 👋
+### Hi, I'm Matheus Oliveira!
 
 I am a Computer Science student currently working as a **Power Platform Developer**.  
 While I specialize in enterprise automation and data strategy, I have a deep passion for **Low-Level Programming**, which drives me to build projects in **C++ and C** to better understand hardware-software interaction and performance.
@@ -7,8 +7,7 @@ While I specialize in enterprise automation and data strategy, I have a deep pas
 
 ---
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenShimada&show_icons=true&theme=holi&rank_icon=github) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenShimada&layout=compact&theme=holi)
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenShimada&show_icons=true&theme=holi&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenShimada&layout=compact&theme=holi)
 
 ---
 
