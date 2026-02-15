@@ -5,10 +5,6 @@ While I specialize in enterprise automation and data strategy, I have a deep pas
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-jonas-de-oliveira-5a8a2b254/) [![E-mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:matheus_jonnas@proton.me)
 
----
-
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenShimada&show_icons=true&theme=holi&rank_icon=github) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenShimada&layout=compact&theme=holi)
 
 ---
 
