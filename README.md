@@ -10,9 +10,8 @@ While I specialize in enterprise automation and data strategy, I have a deep pas
 
 ## Technical Stack & Interests
 
-* **Low-Level & Performance:** C, C++, and Memory Management.
 * **Enterprise Automation:** Power Platform (Power Apps, Automate, BI, SharePoint), VBA, and SQL.
 * **Data Science:** Python (Pandas, BeautifulSoup, Selenium, Scrapy) and Descriptive Statistics.
-* **Core Interests:** Software Architecture, System Internals, Cybersecurity, Reverse Engineering.
+* **Core Interests:** Software Architecture, System Internals, Cybersecurity, Reverse Engineering, Low-level programming.
 
 ---
